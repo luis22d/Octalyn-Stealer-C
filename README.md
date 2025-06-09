@@ -5,7 +5,7 @@ Octalyn Stealer Is A C++ Stealer, Designed To Steal Info.
 ![octa](https://github.com/user-attachments/assets/fa24b91f-e5ba-4a69-9902-a85b9b6cbe70)
 ![1d](https://github.com/user-attachments/assets/87416c6f-0ed3-450c-8883-979f90c01e3f)
 
-https://t.me/ZeroTraceOfficial
+https://t.me/ZeroTraceDevOfficial
 
 # Octalyn Stealer
 
